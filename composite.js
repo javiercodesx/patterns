@@ -79,6 +79,7 @@ class Caja extends Item {
 }
   
 // --- USO ---
+ 
 // Productos sueltos
 const iPhone = new Producto("iPhone", 1000);
 const airpods = new Producto("AirPods", 200);
